@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196474953476",
+    "firebase_url": "https://mesb-70fa5.firebaseio.com",
+    "project_id": "mesb-70fa5",
+    "storage_bucket": "mesb-70fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196474953476:android:ea07b0faffbbc996",
+        "android_client_info": {
+          "package_name": "mqp.mesb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196474953476-p88ajspgvtrn3i7omb0036ap3hhr4npl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mqp.mesb",
+            "certificate_hash": "49b28c974cdc1f9c4fddbd5a9edb41c34e3652c0"
+          }
+        },
+        {
+          "client_id": "196474953476-4il1ui3bki8bc4p5nekd6jt625mnl7j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfpBYtRmg5bQ_cNXy26bO07E6dTygUVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196474953476-4il1ui3bki8bc4p5nekd6jt625mnl7j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
